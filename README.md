@@ -12,6 +12,7 @@ PAUTAS PARA TENER EN CUENTA:
     -El archivo con el resultado de las pruebas en formato .html.
     
     -El archivo en formato de video con la evidencia de que todo funcione acorde a los establecido.
+    (En caso de que no quiera abrir: https://youtu.be/07N--6qeFGs)
     
 4. Aquí se encuentra el link de la plataforma Azure DevOps, con las historias de usuario creadas para llevar acabo este Testing. 
-
+(https://dev.azure.com/20211809/Tarea%204%20(Prog%20III)

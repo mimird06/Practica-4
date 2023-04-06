@@ -8,7 +8,9 @@ PAUTAS PARA TENER EN CUENTA:
 2. En la carpeta 'Capturas' se encuentran los reportes en formato de imagen.
 
 3. En la carpeta 'Resultados Prueba' se encuentran:
-    -El archivo con el resultado de las pruebas en formato .html
+
+    -El archivo con el resultado de las pruebas en formato .html.
+    
     -El archivo en formato de video con la evidencia de que todo funcione acorde a los establecido.
     
 4. Aquí se encuentra el link de la plataforma Azure DevOps, con las historias de usuario creadas para llevar acabo este Testing. 

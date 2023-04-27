@@ -1,4 +1,4 @@
-# Practica-4
+# Prueba-QA-
 Práctica 4 de Prog III con Kelyn Tejada.
 
 PAUTAS PARA TENER EN CUENTA:

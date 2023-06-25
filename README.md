@@ -1,7 +1,4 @@
-# Prueba-QA-
-Práctica 4 de Prog III con Kelyn Tejada.
-
-PAUTAS PARA TENER EN CUENTA:
+# Prueba-Automatizada para Booking.com
 
 1. En el archivo 'test_booking.py' se encuentra desarrollado el script de la prueba QA.
 
